@@ -32,4 +32,15 @@ Ergänzung eines Produktes durch einführen einer neuen Variante.
 - ehm ehm ehm
 
 ### computer monitors
- 
+
+**Managemant und Controlling**
+==============================
+
+## Bilanz
+| Aktiva (Vermögen) | Passiva(Kapital)|
+|--|--|
+|Anlagen-Vermögen|Eigenkapital|
+|+ Umlauf-Vermögen|+ Fremdkapital|
+|= Vermögen|= Kapital|
+
+

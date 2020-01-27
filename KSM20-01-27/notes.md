@@ -94,3 +94,4 @@ Zusatzaufgabe:
 ### Merksätze
 1. Beim Einkauf zahlen wir Vorsteuer. Die gezahlte Vorsteuer stellt eine Forderung ggü. dem Finanzamt dar und aus dem Aktiv-Konto "Vorsteuer" im Soll gebucht.
 2. Beim Verkauf erhalten wir Umsatzsteuer. Die erhaltene Steuerzahlung stellt eine Verbindlichkeit beim Finanzamt dar und auf dem Passiv-Konto "Umsatzsteuer" im Haben gebucht.
+

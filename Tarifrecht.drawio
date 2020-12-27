@@ -1,14 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2020-12-27T11:22:44.262Z" agent="5.0 (X11)" etag="2sE4bPU_P45_i9geEFjK" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-27T11:26:41.924Z" agent="5.0 (X11)" etag="bwxUkfx8-OGTwG8FIll7" version="14.1.2" type="github">
   <diagram id="NVxNyo2ifCKapMFhYjiP" name="Page-1">
     <mxGraphModel dx="2249" dy="1855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="m6uIh2kafp6VVx8X3005-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-1" target="m6uIh2kafp6VVx8X3005-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-1" target="m6uIh2kafp6VVx8X3005-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-1" target="m6uIh2kafp6VVx8X3005-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-1" target="m6uIh2kafp6VVx8X3005-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-1" target="m6uIh2kafp6VVx8X3005-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-1" value="&lt;div&gt;Tarifrecht&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="340" y="270" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-2" target="m6uIh2kafp6VVx8X3005-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-2" target="m6uIh2kafp6VVx8X3005-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-2" value="Arbeitskämpfe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-3" target="m6uIh2kafp6VVx8X3005-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-10" y="-45" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-3" target="m6uIh2kafp6VVx8X3005-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-3" target="m6uIh2kafp6VVx8X3005-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-3" value="&lt;div&gt;Rechtsgrundlage&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="150" width="120" height="60" as="geometry" />
@@ -64,6 +98,15 @@
         <mxCell id="m6uIh2kafp6VVx8X3005-23" value="&lt;div&gt;Gehaltsrahmentarifvertrag&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="590" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-24" target="m6uIh2kafp6VVx8X3005-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-24" target="m6uIh2kafp6VVx8X3005-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-24" target="m6uIh2kafp6VVx8X3005-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-24" value="&lt;div&gt;Tarifverhandlungen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="150" width="120" height="60" as="geometry" />
         </mxCell>
@@ -76,6 +119,46 @@
         <mxCell id="m6uIh2kafp6VVx8X3005-27" value="Kann beim Scheitern zu Arbeiterkämpfen führen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="-60" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-28" target="m6uIh2kafp6VVx8X3005-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="100" />
+              <mxPoint x="760" y="-85" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-28" target="m6uIh2kafp6VVx8X3005-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="100" />
+              <mxPoint x="760" y="-52" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-28" target="m6uIh2kafp6VVx8X3005-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="100" />
+              <mxPoint x="760" y="-5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-28" target="m6uIh2kafp6VVx8X3005-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="100" />
+              <mxPoint x="760" y="35" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-28" target="m6uIh2kafp6VVx8X3005-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="100" />
+              <mxPoint x="760" y="75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-28" value="Streik" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="100" width="170" height="30" as="geometry" />
         </mxCell>
@@ -83,19 +166,19 @@
           <mxGeometry x="740" y="-150" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-30" value="&lt;div&gt;Schwerpunktstreik&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="60" width="140" height="30" as="geometry" />
+          <mxGeometry x="800" y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-31" value="&lt;div&gt;Warnstreik&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="20" width="140" height="30" as="geometry" />
+          <mxGeometry x="800" y="20" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-32" value="Sympathiestreik" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="-20" width="140" height="30" as="geometry" />
+          <mxGeometry x="800" y="-20" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-33" value="Flächenstreik" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="-60" width="140" height="30" as="geometry" />
+          <mxGeometry x="800" y="-60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-34" value="Generalstreik" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="-100" width="140" height="30" as="geometry" />
+          <mxGeometry x="800" y="-100" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-35" value="&lt;div&gt;Basiert auf TGV (Tarifvertragsgesetz, seit dem 9. April 1949&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="80" width="170" height="50" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-27T10:57:50.042Z" agent="5.0 (X11)" etag="K2VJOH_emQ_TY_g7bOs9" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-27T11:05:26.211Z" agent="5.0 (X11)" etag="-DKTgCK-UcRYnE96FRed" version="14.1.2" type="github">
   <diagram id="NVxNyo2ifCKapMFhYjiP" name="Page-1">
     <mxGraphModel dx="1422" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,16 +23,37 @@
           <mxGeometry x="550" y="490" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-10" value="&lt;div&gt;Gewerkschaft&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="760" width="170" height="30" as="geometry" />
+          <mxGeometry x="550" y="810" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-11" value="Organisieren sich in Fachverbänden" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="530" width="120" height="30" as="geometry" />
+          <mxGeometry x="620" y="530" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-12" value="BDA (Bundesvereinigung der deutschen Arbeitgeber) als Dachorganisation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="570" width="120" height="80" as="geometry" />
+          <mxGeometry x="620" y="570" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="m6uIh2kafp6VVx8X3005-13" value="Organisieren sich in Fachverbänden" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="670" width="120" height="30" as="geometry" />
+        <mxCell id="m6uIh2kafp6VVx8X3005-13" value="49 Bundesfachspitzen-gewerkschaften" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="660" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-14" value="&lt;div&gt;Gibt Orts/Bezirksverbände&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="720" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-15" value="&lt;div&gt;14 Landesvereinigungen&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="760" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-16" value="Entstanden im 19. Jahrhundert" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="850" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-17" value="Im Grundgesetz verankert" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="890" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-18" value="vertreten Mitglieder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="930" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-19" value="handeln Tarifverträge aus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="970" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-20" value="Mehr als ein drittel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1010" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

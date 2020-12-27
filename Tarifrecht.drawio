@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-12-27T11:32:36.344Z" agent="5.0 (X11)" etag="guEZuorzFhx3frDIq9Od" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-27T12:17:27.507Z" agent="5.0 (X11)" etag="LvtSFTPLe5MOaudrT8NJ" version="14.1.2" type="github">
   <diagram id="NVxNyo2ifCKapMFhYjiP" name="Page-1">
-    <mxGraphModel dx="2249" dy="1855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4740" dy="2287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="m6uIh2kafp6VVx8X3005-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-1" target="m6uIh2kafp6VVx8X3005-24">
+        <mxCell id="m6uIh2kafp6VVx8X3005-38" value="." style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-1" target="m6uIh2kafp6VVx8X3005-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-1" target="m6uIh2kafp6VVx8X3005-2">
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-1" value="&lt;div&gt;&lt;b&gt;Tarifrecht&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="340" y="270" width="80" height="80" as="geometry" />
+          <mxGeometry x="520" y="680" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-2" target="m6uIh2kafp6VVx8X3005-29">
           <mxGeometry relative="1" as="geometry" />
@@ -29,12 +29,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-2" value="Arbeitskämpfe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-3" target="m6uIh2kafp6VVx8X3005-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-10" y="-45" />
+              <mxPoint x="170" y="365" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -45,7 +45,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-3" value="&lt;div&gt;Rechtsgrundlage&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-6" target="m6uIh2kafp6VVx8X3005-8">
           <mxGeometry relative="1" as="geometry" />
@@ -54,7 +54,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-6" value="Tarifpartner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-7" target="m6uIh2kafp6VVx8X3005-21">
           <mxGeometry relative="1" as="geometry" />
@@ -66,134 +66,134 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-7" value="&lt;div&gt;Tarifvertragsarten&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.106;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-8" target="m6uIh2kafp6VVx8X3005-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="570" y="520" />
-              <mxPoint x="570" y="545" />
+              <mxPoint x="750" y="930" />
+              <mxPoint x="750" y="955" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="m6uIh2kafp6VVx8X3005-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="530" as="sourcePoint" />
+            <mxPoint x="750" y="940" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="570" y="520" />
-              <mxPoint x="570" y="610" />
+              <mxPoint x="750" y="930" />
+              <mxPoint x="750" y="1020" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.135;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-8" target="m6uIh2kafp6VVx8X3005-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="570" y="520" />
-              <mxPoint x="570" y="685" />
+              <mxPoint x="750" y="930" />
+              <mxPoint x="750" y="1095" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.124;exitY=1.067;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-8" target="m6uIh2kafp6VVx8X3005-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="571" y="520" />
-              <mxPoint x="570" y="520" />
-              <mxPoint x="570" y="735" />
+              <mxPoint x="751" y="930" />
+              <mxPoint x="750" y="930" />
+              <mxPoint x="750" y="1145" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.129;exitY=1.033;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-8" target="m6uIh2kafp6VVx8X3005-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="570" y="520" />
-              <mxPoint x="570" y="775" />
+              <mxPoint x="750" y="930" />
+              <mxPoint x="750" y="1185" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-8" value="&lt;div&gt;Arbeitgeberverbände&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="550" y="490" width="170" height="30" as="geometry" />
+          <mxGeometry x="730" y="900" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.124;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-10" target="m6uIh2kafp6VVx8X3005-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="570" y="840" />
-              <mxPoint x="570" y="865" />
+              <mxPoint x="750" y="1250" />
+              <mxPoint x="750" y="1275" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-10" target="m6uIh2kafp6VVx8X3005-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="570" y="833" />
-              <mxPoint x="570" y="905" />
+              <mxPoint x="750" y="1243" />
+              <mxPoint x="750" y="1315" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.106;exitY=0.967;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-10" target="m6uIh2kafp6VVx8X3005-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="570" y="840" />
-              <mxPoint x="570" y="945" />
+              <mxPoint x="750" y="1250" />
+              <mxPoint x="750" y="1355" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.106;exitY=1.033;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-10" target="m6uIh2kafp6VVx8X3005-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="570" y="840" />
-              <mxPoint x="570" y="985" />
+              <mxPoint x="750" y="1250" />
+              <mxPoint x="750" y="1395" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.106;exitY=1.033;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-10" target="m6uIh2kafp6VVx8X3005-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="570" y="840" />
-              <mxPoint x="570" y="1035" />
+              <mxPoint x="750" y="1250" />
+              <mxPoint x="750" y="1445" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-10" value="&lt;div&gt;Gewerkschaft&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="550" y="810" width="170" height="30" as="geometry" />
+          <mxGeometry x="730" y="1220" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-11" value="Organisieren sich in Fachverbänden" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="620" y="530" width="140" height="30" as="geometry" />
+          <mxGeometry x="800" y="940" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-12" value="BDA (Bundesvereinigung der deutschen Arbeitgeber) als Dachorganisation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="620" y="570" width="140" height="80" as="geometry" />
+          <mxGeometry x="800" y="980" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-13" value="49 Bundesfachspitzen-gewerkschaften" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="620" y="660" width="140" height="50" as="geometry" />
+          <mxGeometry x="800" y="1070" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-14" value="&lt;div&gt;Gibt Orts/Bezirksverbände&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="620" y="720" width="140" height="30" as="geometry" />
+          <mxGeometry x="800" y="1130" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-15" value="&lt;div&gt;14 Landesvereinigungen&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="620" y="760" width="140" height="30" as="geometry" />
+          <mxGeometry x="800" y="1170" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-16" value="Entstanden im 19. Jahrhundert" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="620" y="850" width="140" height="30" as="geometry" />
+          <mxGeometry x="800" y="1260" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-17" value="Im Grundgesetz verankert" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="620" y="890" width="140" height="30" as="geometry" />
+          <mxGeometry x="800" y="1300" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-18" value="vertreten Mitglieder" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="620" y="930" width="140" height="30" as="geometry" />
+          <mxGeometry x="800" y="1340" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-19" value="handeln Tarifverträge aus" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="620" y="970" width="140" height="30" as="geometry" />
+          <mxGeometry x="800" y="1380" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-20" value="&lt;div&gt;Mehr als ein drittel aller Arbeitnehmer sind Mitglied&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1010" width="140" height="50" as="geometry" />
+          <mxGeometry x="800" y="1420" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-21" value="&lt;div&gt;Manteltarifsvertrag&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="490" width="170" height="30" as="geometry" />
+          <mxGeometry x="390" y="900" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-22" value="&lt;div&gt;Gehaltstarifvertrag&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="540" width="170" height="30" as="geometry" />
+          <mxGeometry x="390" y="950" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-23" value="&lt;div&gt;Gehaltsrahmentarifvertrag&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="590" width="170" height="30" as="geometry" />
+          <mxGeometry x="390" y="1000" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-24" target="m6uIh2kafp6VVx8X3005-27">
           <mxGeometry relative="1" as="geometry" />
@@ -205,86 +205,86 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-24" value="&lt;div&gt;Tarifverhandlungen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-25" value="Findet periodisch statt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="100" width="170" height="30" as="geometry" />
+          <mxGeometry x="560" y="510" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-26" value="Unabhängiger Schlichter der von beiden Parteien aktzeptiert wird kann bei Problemen herangezogen werden." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-10" width="170" height="90" as="geometry" />
+          <mxGeometry x="560" y="400" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-27" value="Kann beim Scheitern zu Arbeiterkämpfen führen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-60" width="170" height="30" as="geometry" />
+          <mxGeometry x="560" y="350" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-28" target="m6uIh2kafp6VVx8X3005-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="760" y="100" />
-              <mxPoint x="760" y="-85" />
+              <mxPoint x="940" y="510" />
+              <mxPoint x="940" y="325" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-28" target="m6uIh2kafp6VVx8X3005-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="760" y="100" />
-              <mxPoint x="760" y="-52" />
+              <mxPoint x="940" y="510" />
+              <mxPoint x="940" y="358" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-28" target="m6uIh2kafp6VVx8X3005-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="760" y="100" />
-              <mxPoint x="760" y="-5" />
+              <mxPoint x="940" y="510" />
+              <mxPoint x="940" y="405" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-28" target="m6uIh2kafp6VVx8X3005-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="760" y="100" />
-              <mxPoint x="760" y="35" />
+              <mxPoint x="940" y="510" />
+              <mxPoint x="940" y="445" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6uIh2kafp6VVx8X3005-28" target="m6uIh2kafp6VVx8X3005-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="760" y="100" />
-              <mxPoint x="760" y="75" />
+              <mxPoint x="940" y="510" />
+              <mxPoint x="940" y="485" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-28" value="Streik" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="740" y="100" width="170" height="30" as="geometry" />
+          <mxGeometry x="920" y="510" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-29" value="&lt;div&gt;Aussperrung&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="740" y="-150" width="170" height="30" as="geometry" />
+          <mxGeometry x="920" y="260" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-30" value="&lt;div&gt;Schwerpunktstreik&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="800" y="60" width="140" height="30" as="geometry" />
+          <mxGeometry x="980" y="470" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-31" value="&lt;div&gt;Warnstreik&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="800" y="20" width="140" height="30" as="geometry" />
+          <mxGeometry x="980" y="430" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-32" value="Sympathiestreik" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="800" y="-20" width="140" height="30" as="geometry" />
+          <mxGeometry x="980" y="390" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-33" value="Flächenstreik" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="800" y="-60" width="140" height="30" as="geometry" />
+          <mxGeometry x="980" y="350" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-34" value="Generalstreik" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="800" y="-100" width="140" height="30" as="geometry" />
+          <mxGeometry x="980" y="310" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-35" value="&lt;div&gt;Basiert auf TGV (Tarifvertragsgesetz, seit dem 9. April 1949&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="80" width="170" height="50" as="geometry" />
+          <mxGeometry x="200" y="490" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-36" value="&lt;div&gt;Tarifverträge gelten für Arbeitsverträge unmittelbar und verpflichtend&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-10" width="170" height="70" as="geometry" />
+          <mxGeometry x="200" y="400" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-37" value="&lt;div&gt;Tarifverträge müssen schriftlich sein&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-65" width="170" height="40" as="geometry" />
+          <mxGeometry x="200" y="345" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

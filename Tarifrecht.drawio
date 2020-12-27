@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-27T11:05:26.211Z" agent="5.0 (X11)" etag="-DKTgCK-UcRYnE96FRed" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-27T11:14:11.845Z" agent="5.0 (X11)" etag="d6tUYgbiHZFLuaWFwm5o" version="14.1.2" type="github">
   <diagram id="NVxNyo2ifCKapMFhYjiP" name="Page-1">
-    <mxGraphModel dx="1422" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,10 @@
           <mxGeometry x="340" y="270" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-2" value="Arbeitskämpfe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-3" value="&lt;div&gt;Rechtsgrundlage&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="-40" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m6uIh2kafp6VVx8X3005-6" value="Tarifpartner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="410" width="120" height="60" as="geometry" />
@@ -52,8 +52,35 @@
         <mxCell id="m6uIh2kafp6VVx8X3005-19" value="handeln Tarifverträge aus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="970" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m6uIh2kafp6VVx8X3005-20" value="Mehr als ein drittel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1010" width="140" height="30" as="geometry" />
+        <mxCell id="m6uIh2kafp6VVx8X3005-20" value="&lt;div&gt;Mehr als ein drittel aller Arbeitnehmer sind Mitglied&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1010" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-21" value="&lt;div&gt;Manteltarifsvertrag&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="490" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-22" value="&lt;div&gt;Gehaltstarifvertrag&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="540" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-23" value="&lt;div&gt;Gehaltsrahmentarifvertrag&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="590" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-24" value="&lt;div&gt;Tarifverhandlungen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-25" value="Findet periodisch statt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="100" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-26" value="Unabhängiger Schlichter der von beiden Parteien aktzeptiert wird kann bei Problemen herangezogen werden." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-10" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-27" value="Kann beim Scheitern zu Arbeiterkämpfen führen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-60" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-28" value="Streik" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="100" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m6uIh2kafp6VVx8X3005-29" value="&lt;div&gt;Aussperrung&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="50" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
